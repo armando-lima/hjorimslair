@@ -1,3 +1,8 @@
+/* @author:     Armando Lima  */
+/* @studentid:  301235438     */
+/* @date:       June 20, 2023 */
+/* @filename:   contact.js    */
+
 function submitForm(event) {
     event.preventDefault();
     
